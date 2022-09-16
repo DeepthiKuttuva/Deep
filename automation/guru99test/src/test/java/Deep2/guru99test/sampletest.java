@@ -1,10 +1,11 @@
-package deep1.gitTest;
-import org.openqa.selenium.*;
+package Deep2.guru99test;
+
+
+import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.Test;
 
-public class AppTest {
+public class sampletest {
 	
 	public WebDriver driver;
 	@Test
@@ -23,5 +24,12 @@ public class AppTest {
 		}
 		driver.close();
 	}}
+
+
+
+
+
+
+
 
 
