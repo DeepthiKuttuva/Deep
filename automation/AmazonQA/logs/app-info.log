@@ -1,0 +1,4 @@
+[TRACE] 2021-05-18 17:24:38.587 [main] SearchTest - amazon website is opened
+[INFO ] 2021-05-18 17:24:38.594 [main] SearchTest - Book name is entered
+[INFO ] 2021-05-18 17:24:38.594 [main] SearchTest - Price is validated
+[INFO ] 2021-05-18 17:24:38.594 [main] SearchTest - Item is added and then proceed to checkout is clicked
